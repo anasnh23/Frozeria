@@ -191,19 +191,5 @@ Route::view('/help', 'help')->name('help');
 | Mengimplementasikan Pemrograman Terstruktur | Memiliki alur CRUD, pencarian, filter, validasi, dan route yang jelas |
 | Mengimplementasikan Pemrograman Berorientasi Objek | Menggunakan class Model dan Controller |
 | Membuat Dokumen Kode Program | Tersedia README dan laporan PDF |
-| Melakukan Debugging | Sudah dilakukan pengujian dengan `php artisan test` |
+| Melakukan Debugging | Sudah dilakukan pengujian aplikasi dan perbaikan error |
 | Menggunakan SQL | Menggunakan MySQL, migration, relasi foreign key, query pencarian, dan filter |
-
-## Testing
-
-Jalankan pengujian dengan perintah:
-
-```bash
-php artisan test
-```
-
-Hasil terakhir:
-
-```text
-2 passed
-```
